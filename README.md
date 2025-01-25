@@ -1,5 +1,11 @@
-# Vue 3 + Vite
+This Vue 3 project demonstrates a checkbox form with dynamic functionality and elegant design.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Description
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+This project implements a checkbox form where:
+
+Users can select multiple checkboxes.
+The "Save" button is only enabled when at least one checkbox is selected.
+The selected checkbox states persist using localStorage.
+A success toast notification appears upon saving the form.<img width="421" alt="Screenshot 2025-01-24 at 7 01 45 PM" src="https://github.com/user-attachments/assets/ea193840-29ec-4266-8bfb-b8c8b49356c6" />
+
